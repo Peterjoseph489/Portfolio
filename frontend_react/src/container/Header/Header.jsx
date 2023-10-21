@@ -1,5 +1,6 @@
 import React from 'react'
-import { motion } from 'framer-motion/dist/es/index';
+// import { motion } from 'framer-motion/dist/es/index';
+import { motion } from 'framer-motion';
 
 import { images } from '../../constants';
 import './Header.scss';
