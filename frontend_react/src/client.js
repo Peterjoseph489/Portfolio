@@ -2,8 +2,8 @@ import { createClient } from '@sanity/client';
 import imageUrlBuilder from '@sanity/image-url';
 
 
-console.log(process.env.REACT_APP_SANITY_PROJECT_ID)
-console.log(process.env.REACT_APP_SANITY_TOKEN)
+// console.log(process.env.REACT_APP_SANITY_PROJECT_ID)
+// console.log(process.env.REACT_APP_SANITY_TOKEN)
 
 
 export const client = createClient({
