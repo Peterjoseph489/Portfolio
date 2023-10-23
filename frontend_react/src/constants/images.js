@@ -27,6 +27,10 @@ import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 import joseph from '../assets/Joseph.webp';
+import peter from '../assets/Peter.jpg';
+import jp from '../assets/jp.jpg';
+import pj from '../assets/pj.jpg';
+import awesome from '../assets/awesome.png';
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
@@ -64,6 +68,10 @@ export default {
   circle,
   logo,
   joseph,
+  peter,
+  jp,
+  pj,
+  awesome,
   adidas,
   amazon,
   asus,
